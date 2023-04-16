@@ -30,7 +30,7 @@ $(function() {
         } else {
 
             navbar.removeClass("nav-scroll");
-            logo.attr('src', '/img/logo-light.png');
+            logo.attr('src', '/img/zt-removebg-preview.png');
         }
     });
 
@@ -79,7 +79,7 @@ $(function() {
             $('.topnav .menu-icon .text').addClass('open');
 
             navDark.addClass("navlit");
-            logoChan.attr('src', '/img/logo-light.png');
+            logoChan.attr('src', '/img/zt-removebg-preview.png');
 
             window.addEventListener('scroll', noScroll);
 
